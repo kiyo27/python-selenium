@@ -1,0 +1,4 @@
+driver/chromedriver.exe
+__pycache__/
+*.py[cod]
+*$py.class
